@@ -1,0 +1,7 @@
+E:\Estudo TI\Udemy\Curso C#\16 - Expressoes Lambda\220-Exercicio\220-Exercicio\bin\Debug\220-Exercicio.exe.config
+E:\Estudo TI\Udemy\Curso C#\16 - Expressoes Lambda\220-Exercicio\220-Exercicio\bin\Debug\220-Exercicio.exe
+E:\Estudo TI\Udemy\Curso C#\16 - Expressoes Lambda\220-Exercicio\220-Exercicio\bin\Debug\220-Exercicio.pdb
+E:\Estudo TI\Udemy\Curso C#\16 - Expressoes Lambda\220-Exercicio\220-Exercicio\obj\Debug\220-Exercicio.csprojAssemblyReference.cache
+E:\Estudo TI\Udemy\Curso C#\16 - Expressoes Lambda\220-Exercicio\220-Exercicio\obj\Debug\220-Exercicio.csproj.CoreCompileInputs.cache
+E:\Estudo TI\Udemy\Curso C#\16 - Expressoes Lambda\220-Exercicio\220-Exercicio\obj\Debug\220-Exercicio.exe
+E:\Estudo TI\Udemy\Curso C#\16 - Expressoes Lambda\220-Exercicio\220-Exercicio\obj\Debug\220-Exercicio.pdb
